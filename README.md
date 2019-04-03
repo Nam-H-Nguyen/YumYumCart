@@ -1,10 +1,12 @@
 # YumYumCart
 **YumYumCart** is a business mockup of an affordable yummy food delivery service of all kinds of Asian cultural dishes from **Japan**, **Korea**, **Vietnam**, **India**, **Thailand**, and **China**. This craze has all the yumyummers craving for more, saving busy professionals lots of time from cooking a full meal.
 
-Website deployed on Heroku: [](https://yumyumcart.herokuapp.com/ "YumYumCart, premium food delivery service for nostalgic Asian cultural dishes")
+Website deployed on Heroku: [https://yumyumcart.herokuapp.com/](https://yumyumcart.herokuapp.com/ "YumYumCart, premium food delivery service for nostalgic Asian cultural dishes")
 
-<img src="https://github.com/Nam-H-Nguyen/YumYumCart/blob/master/resources/img/YumYumCart_desktop.png" width="50%" />
+###Desktop Version
+<img src="https://github.com/Nam-H-Nguyen/YumYumCart/blob/master/resources/img/YumYumCart_desktop.png" width="100%" />
 
+###Mobile Version
 <img src="https://github.com/Nam-H-Nguyen/YumYumCart/blob/master/resources/img/YumYumCart_phone.png" width="50%" />
 
 ---
