@@ -1,13 +1,17 @@
 # YumYumCart
-**YumYumCart** is a business mockup of an affordable yummy food delivery service of all kinds of Asian cultural dishes from **Japan**, **Korea**, **Vietnam**, **India**, **Thailand**, and **China**. This craze has all the yumyummers craving for more, saving busy professionals lots of time from cooking a full meal.
+
+YumYumCart is the yummiest all-around premium Asian food delivery service with the mission to bring affordable and cultural foods from **Japan**, **Korea**, **Vietnam**, **India**, **Thailand**, and **China** to you because we know you miss your family home cooked meals and can get it with us anywhere you are in a matter of minutes. We know it's hard being far away from your homeland while pursuing your dreams. Now, with this nostalgic craze, it has all the yumyummers craving for more full fledged meals that taste (hopefully near) as good as your mom's, dad's, uncle's, aunt's heck even your lover's creations! We strive to improve until we get to that point with our chefs nearby you! 
 
 Website deployed on Heroku: [https://yumyumcart.herokuapp.com/](https://yumyumcart.herokuapp.com/ "YumYumCart, premium food delivery service for nostalgic Asian cultural dishes")
 
 ## Desktop | Laptop Responsive Version
-<img src="https://github.com/Nam-H-Nguyen/YumYumCart/blob/master/resources/img/YumYumCart_desktop.png" width="100%" />
+<img src="https://github.com/Nam-H-Nguyen/YumYumCart/blob/master/resources/img/YumYumCart_desktop.png" width="100%"/>
 
 ## Tablet | Phone Responsive Version
 <img src="https://github.com/Nam-H-Nguyen/YumYumCart/blob/master/resources/img/YumYumCart_phone.png" width="50%" />
+
+## YumYumCart Culturally Inspired food creations from all around Asia
+<img src="https://github.com/Nam-H-Nguyen/YumYumCart/blob/master/resources/img/YumYumCart_food.png" width="100%"/>
 
 ---
 ### Summary:
