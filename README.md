@@ -15,16 +15,16 @@ Website deployed on Heroku: [https://yumyumcart.herokuapp.com/](https://yumyumca
 **Technology**: HTML5, CSS3, Javascript, JQuery, Heroku, Git, Github, Atom Text Editor
 
 **Resources**: 
-⋅⋅*[HTML5 Validation](https://validator.w3.org/nu/#textarea)
-⋅⋅*[Image Compressor](https://imagecompressor.com/)
-⋅⋅*[CSS | JS Minifier](https://cssminifier.com/)
-⋅⋅*[Pexels Free Stock Photos](https://www.pexels.com/)
-⋅⋅*[Grid CSS for grid styling](https://css-tricks.com/snippets/css/complete-guide-grid/)
-⋅⋅*[Waypoint CSS for scrolling animations](http://imakewebthings.com/waypoints/)
-⋅⋅*[0 to 255 Shade Gradient](https://www.0to255.com)
-⋅⋅*[Favicon Generator](https://realfavicongenerator.net/)
-⋅⋅*[Google JQuery CDN Library](https://developers.google.com/speed/libraries/#jquery)
-⋅⋅*[JSDelivr to allow HTML5 CSS3 Javascript code to work in older browser versions](https://www.jsdelivr.com/)
+- :see_no_evil:     [HTML5 Validation](https://validator.w3.org/nu/#textarea)
+- :hear_no_evil:    [Image Compressor](https://imagecompressor.com/)
+- :speak_no_evil: [CSS | JS Minifier](https://cssminifier.com/)
+- :see_no_evil:     [Pexels Free Stock Photos](https://www.pexels.com/)
+- :hear_no_evil:    [Grid CSS for grid styling](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- :speak_no_evil: [Waypoint CSS for scrolling animations](http://imakewebthings.com/waypoints/)
+- :see_no_evil:     [0 to 255 Shade Gradient](https://www.0to255.com)
+- :hear_no_evil:    [Favicon Generator](https://realfavicongenerator.net/)
+- :speak_no_evil: [Google JQuery CDN Library](https://developers.google.com/speed/libraries/#jquery)
+- :see_no_evil:     [JSDelivr to allow HTML5 CSS3 Javascript code to work in older browser versions](https://www.jsdelivr.com/)
 
 **Concepts Used**: 
 1. CSS Prefixes using autoprefixer package to ensure cross browser compatibility
