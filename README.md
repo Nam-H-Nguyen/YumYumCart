@@ -1,45 +1,38 @@
 # YumYumCart
-**YumYumCart** is a business mockup of an affordable yummy food delivery service that has all the yumyummers craving for more, saving busy professionals lots of time from cooking a full meal
+**YumYumCart** is a business mockup of an affordable yummy food delivery service of all kinds of Asian cultural dishes from **Japan**, **Korea**, **Vietnam**, **India**, **Thailand**, and **China**. This craze has all the yumyummers craving for more, saving busy professionals lots of time from cooking a full meal.
 
-## Augmented Reality (AR) Snake Eyes Dice Roll
+[YumYumCart](https://yumyumcart.herokuapp.com/ "YumYumCart, premium food delivery service for nostalgic Asian cultural dishes")
 
-**Summary**: AR Snake Eyes is a fun way to roll dices and even shake your device to roll the dices onto a flat surface detected by machine learning. The app recognizes feature points of flat surfaces using the camera, places the horizontal grid onto the surface for better visualization, and then simply tap onto the screen to roll the dice. 
+<img src="https://github.com/Nam-H-Nguyen/YumYumCart/blob/master/resources/img/YumYumCart_desktop.png" width="50%" />
 
-[AR Snake Eyes Dice Roll gif](https://media.giphy.com/media/1RzBxFb8zxGabJQEiK/giphy.gif "Augmented Reality (AR) Snake Eyes Dice Roll iOS App")
-
-<img src="https://github.com/Nam-H-Nguyen/MobileProjects/blob/master/ARSnakeEyes/ar_dice_roll.PNG" width="25%" height="25%" />
+<img src="https://github.com/Nam-H-Nguyen/YumYumCart/blob/master/resources/img/YumYumCart_phone.png" width="50%" />
 
 ---
-### Augmented Reality (AR) Snake Eyes Dice Roll
+### Summary:
 
-**Technology**: ARKit 2, SceneKit, Xcode 10, Swift 4, iOS 12
+**Technology**: HTML5, CSS3, Javascript, JQuery, Heroku, Git, Github, Atom Text Editor
+
+**Resources**: 
+*[HTML5 Validation](https://validator.w3.org/nu/#textarea)
+*[Image Compressor](https://imagecompressor.com/)
+*[CSS | JS Minifier](https://cssminifier.com/)
+*[Pexels Free Stock Photos](https://www.pexels.com/)
+*[Grid CSS for grid styling](https://css-tricks.com/snippets/css/complete-guide-grid/)
+*[Waypoint CSS for scrolling animations](http://imakewebthings.com/waypoints/)
+*[0 to 255 Shade Gradient](https://www.0to255.com)
+*[Favicon Generator](https://realfavicongenerator.net/)
+*[Google JQuery CDN Library](https://developers.google.com/speed/libraries/#jquery)
+*[JSDelivr to allow HTML5 CSS3 Javascript code to work in older browser versions](https://www.jsdelivr.com/)
 
 **Concepts Used**: 
-1. AR World Tracking
-2. AR Orientation Tracking
-3. ARSCN 3D feature points
-4. Scene Understanding
-5. Convert .dae to .scn files for compatibility
-6. Matrices
-7. SceneView
-8. Nodes
-9. Diffuse contents and object textures
-10. Add child node to parent node
-11. Recursively include all child node from root node to be displayed
-12. Plane anchor for node
-13. Touch began recognition
-14. Hit Test to convert 2D touch to a 3D point in space on the plane anchor
----
+1. CSS Prefixes using autoprefixer package to ensure cross browser compatibility
+2. Emmet package for coding efficiency and wrapping HTML texts with tags 
+3. Minify CSS/JS files to optimize web page load speed
+4. Compress and resize images to optimize web page load speed
+5. JSDelivr respond, selectivr, and html5shiv to ensure old browser version compatibility
+6. Responsive Web Design
+7. Metatags for SEO
+8. JQuery for adding website element effects
+9. Media Queries to control for breakpoint of desktop, tablets, and phones screen size
+10. HTML tags
 
-### Steps to run the 📱 app: ###
-
-1. Open Terminal
-2. Change directory to where you want to clone the file
-3. Type `git clone https://github.com/Nam-H-Nguyen/MobileProjects/tree/master/ARSnakeEyes.git`
-- - - -
-OR download the zip file
-- - - -
-4. Open the folder ARSnakeEyes.git__
-5. Double click the file "ARSnakeEyes.git.xcworkspace"
-6. Press two keys simultaneously __CMD + R__ to run the app
-7. Finally . . . Have fun with the app!
