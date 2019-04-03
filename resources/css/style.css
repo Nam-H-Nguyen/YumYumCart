@@ -86,7 +86,7 @@ h3 {
 h1 {
     margin-top: 0; /* Without this line, there will be a margin gap on the top of the hero image*/
     margin-bottom = 20px;
-    color: #fff;
+    color: white;
     font-size: 250%; /* Relative to size of html font 20px */
     word-spacing: 4px;
 }
