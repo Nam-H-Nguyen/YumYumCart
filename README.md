@@ -1,7 +1,7 @@
 # YumYumCart
 **YumYumCart** is a business mockup of an affordable yummy food delivery service of all kinds of Asian cultural dishes from **Japan**, **Korea**, **Vietnam**, **India**, **Thailand**, and **China**. This craze has all the yumyummers craving for more, saving busy professionals lots of time from cooking a full meal.
 
-[YumYumCart](https://yumyumcart.herokuapp.com/ "YumYumCart, premium food delivery service for nostalgic Asian cultural dishes")
+Website deployed on Heroku: [](https://yumyumcart.herokuapp.com/ "YumYumCart, premium food delivery service for nostalgic Asian cultural dishes")
 
 <img src="https://github.com/Nam-H-Nguyen/YumYumCart/blob/master/resources/img/YumYumCart_desktop.png" width="50%" />
 
@@ -13,16 +13,16 @@
 **Technology**: HTML5, CSS3, Javascript, JQuery, Heroku, Git, Github, Atom Text Editor
 
 **Resources**: 
-*[HTML5 Validation](https://validator.w3.org/nu/#textarea)
-*[Image Compressor](https://imagecompressor.com/)
-*[CSS | JS Minifier](https://cssminifier.com/)
-*[Pexels Free Stock Photos](https://www.pexels.com/)
-*[Grid CSS for grid styling](https://css-tricks.com/snippets/css/complete-guide-grid/)
-*[Waypoint CSS for scrolling animations](http://imakewebthings.com/waypoints/)
-*[0 to 255 Shade Gradient](https://www.0to255.com)
-*[Favicon Generator](https://realfavicongenerator.net/)
-*[Google JQuery CDN Library](https://developers.google.com/speed/libraries/#jquery)
-*[JSDelivr to allow HTML5 CSS3 Javascript code to work in older browser versions](https://www.jsdelivr.com/)
+⋅⋅*[HTML5 Validation](https://validator.w3.org/nu/#textarea)
+⋅⋅*[Image Compressor](https://imagecompressor.com/)
+⋅⋅*[CSS | JS Minifier](https://cssminifier.com/)
+⋅⋅*[Pexels Free Stock Photos](https://www.pexels.com/)
+⋅⋅*[Grid CSS for grid styling](https://css-tricks.com/snippets/css/complete-guide-grid/)
+⋅⋅*[Waypoint CSS for scrolling animations](http://imakewebthings.com/waypoints/)
+⋅⋅*[0 to 255 Shade Gradient](https://www.0to255.com)
+⋅⋅*[Favicon Generator](https://realfavicongenerator.net/)
+⋅⋅*[Google JQuery CDN Library](https://developers.google.com/speed/libraries/#jquery)
+⋅⋅*[JSDelivr to allow HTML5 CSS3 Javascript code to work in older browser versions](https://www.jsdelivr.com/)
 
 **Concepts Used**: 
 1. CSS Prefixes using autoprefixer package to ensure cross browser compatibility
