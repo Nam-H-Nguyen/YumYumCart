@@ -17,7 +17,11 @@ $(document).ready(function () {
   });
 
   $('.js--scroll-to-start').click(function () {
-    $('html, body').animate({ scrollTop: $('.js--section-features').offset().top }, 500);
+    $('html, body').animate({ scrollTop: $('.js--section-features').offset().top }, 1000);
+  });
+
+  $('.js--scroll-to-home').click(function () {
+    $('html, body').animate({ scrollTop: $('header').offset().top }, 1000);
   });
 
   // Navigation link scrolls. CSS Snippet Tricks: Smooth Scrolling and Accessibility
@@ -39,25 +43,25 @@ $(document).ready(function () {
   $('.js--wp-1').waypoint(function (direction) {
     $('.js--wp-1').addClass('animated fadeInUpBig');
   }, {
-    offset: '50%'
+    offset: '70%'
   });
 
   $('.js--wp-2').waypoint(function (direction) {
     $('.js--wp-2').addClass('animated fadeInUpBig');
   }, {
-    offset: '50%'
+    offset: '70%'
   });
 
   $('.js--wp-3').waypoint(function (direction) {
     $('.js--wp-3').addClass('animated bounceInUp');
   }, {
-    offset: '50%'
+    offset: '70%'
   });
 
   $('.js--wp-4').waypoint(function (direction) {
     $('.js--wp-4').addClass('animated rubberBand');
   }, {
-    offset: '50%'
+    offset: '70%'
   });
 
   // Mobile navigation
