@@ -3,10 +3,10 @@
 
 Website deployed on Heroku: [https://yumyumcart.herokuapp.com/](https://yumyumcart.herokuapp.com/ "YumYumCart, premium food delivery service for nostalgic Asian cultural dishes")
 
-###Desktop Version
+## Desktop | Laptop Responsive Version
 <img src="https://github.com/Nam-H-Nguyen/YumYumCart/blob/master/resources/img/YumYumCart_desktop.png" width="100%" />
 
-###Mobile Version
+## Tablet | Phone Responsive Version
 <img src="https://github.com/Nam-H-Nguyen/YumYumCart/blob/master/resources/img/YumYumCart_phone.png" width="50%" />
 
 ---
